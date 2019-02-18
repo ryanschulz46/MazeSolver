@@ -20,8 +20,11 @@ Term Project Summer 2018
 Create in collaboration with:
 
 ~Bryanna Valdivia - SJSU M.S. Computer Science
+
 ~Rasika Kale - UCSC B.S. Computer Science
+
 ~Milad Khaladj - UCSC B.S. Computer Science
+
 
 and assistance from:
 
