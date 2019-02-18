@@ -1,6 +1,6 @@
 package MazeSolver;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class Main {
 	
